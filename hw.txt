@@ -1,18 +1,20 @@
-1) В GitHub создаем новый репозиторий
-2) В GitBash git clone https://github.com/Nikita41411/Home_work_Git.git
-3) > new.txt
-4) git add new.txt
-5) git commit -m "new.txt"
-6) git push
-7) vim new.txt
-8) git commit -am "changes_new.txt"
-9) > preferences.txt
-10) vim preferences.txt
-11) cat >> skills.txt
-12) git commit -am "new_skills.txt"
-13) git push
-14) В GitHub (Add file, create new file) пишем текст
-15) Далее пишем commit и жмем на кнопку "Commit new file"
-16) Открываем в GitHub файл bug_report.txt, пишем текст
+1) В GitHub: создаем новый репозиторий Home_work_Git
+2) В GitBash: git clone https://github.com/Nikita41411/Home_work_Git.git
+3) mkdir txt
+4) cd txt
+5) > new.txt
+6) git add new.txt
+7) git commit -m "new.txt"
+8) git push
+9) vim new.txt
+10) git commit -am "changes_new.txt"
+11) > preferences.txt
+12) vim preferences.txt
+13) cat >> skills.txt
+14) git commit -am "new.txt"
+15) git push
+16) В GitHub (Add file, create new file) пишем текст
 17) Далее пишем commit и жмем на кнопку "Commit new file"
-18) В GitBash пишем git pull
+18) Открываем в GitHub файл bug_report.txt, пишем текст
+19) Далее пишем commit и жмем на кнопку "Commit new file"
+20) В GitBash пишем git pull
