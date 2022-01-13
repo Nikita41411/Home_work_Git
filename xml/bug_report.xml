@@ -1,0 +1,11 @@
+<Bug_report>
+    <ID>BUG-1</ID>
+    <Titlle>Не происходит переход на главную страницу клинком на 'Дом питомца' в шапке сайта</Titlle>
+    <Description>Открыть главную страницу сайта http://130.193.37.179/app/pets</Description>
+    <Steps>Кликнуть на 'Дом питомца' в шапке сайта</Steps>
+    <Expected_Result>Происходит переход на главную страницу сайта 'Дом питомца'</Expected_Result>
+    <Actual_result>Переход на главную страницу сайта не происходит</Actual_result>
+    <Environment>Windows 10 Google Chrome 96</Environment>
+    <Critical>Minor</Critical> 
+    <Attachments>https://drive.google.com/file/d/1lws4jg65ToGD2zNRXnov3stMacUbP3Or/view?usp=sharing</Attachments>
+</Bug_report>
