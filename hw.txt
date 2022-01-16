@@ -18,3 +18,39 @@
 18) Открываем в GitHub файл bug_report.txt, пишем текст
 19) Далее пишем commit и жмем на кнопку "Commit new file"
 20) В GitBash пишем git pull
+21) mkdir json
+22) cd json
+23) > new.json
+24) git add new.json
+25) git commit -m "new.json"
+26) git push
+27) vim new.json
+28) git commit -am "changes_new.json"
+29) > preferences.json
+30) vim preferences.json
+31) cat >> skills.json
+32) git commit -am "new.json"
+33) git push
+34) В GitHub (Add file, create new file) пишем текст
+35) Далее пишем commit и жмем на кнопку "Commit new file"
+36) Открываем в GitHub файл bug_report.json, пишем текст
+37) Далее пишем commit и жмем на кнопку "Commit new file"
+38) В GitBash пишем git pull
+39) mkdir xml
+40) cd xml
+41) > new.xml
+42) git add new.xml
+43) git commit -m "new.xml"
+44) git push
+45) vim new.xml
+46) git commit -am "changes_new.xml"
+47) > preferences.xml
+48) vim preferences.xml
+49) cat >> skills.xml
+50) git commit -am "new.xml"
+51) git push
+52) В GitHub (Add file, create new file) пишем текст
+53) Далее пишем commit и жмем на кнопку "Commit new file"
+54) Открываем в GitHub файл bug_report.xml, пишем текст
+55) Далее пишем commit и жмем на кнопку "Commit new file"
+56) В GitBash пишем git pull
